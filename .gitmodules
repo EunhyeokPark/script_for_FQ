@@ -1,4 +1,0 @@
-[submodule "caffe-FQ"]
-	path = caffe-FQ
-	url = https://github.com/EunhyeokPark/caffe-FQ.git
-	branch = FixedQuant
